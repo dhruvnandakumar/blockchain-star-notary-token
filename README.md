@@ -1,13 +1,17 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
-**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-### ToDo
-This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
+
+### Requirements
+
+#### 1. Truffle version - v5.4.2
+#### 2. OpenZeppelin version - v4.4.2
+#### 3. Token Name - Novel Star Registry
+#### 4. Token Symbol - NSR
+#### 5. Contract Address - 0x374F9F302A9c237F5c716a9a1aA1A66F126232b6
 
 
 
 ### Dependencies
-For this project, you will need to have:
+For this , you will need to have:
 1. **Node and NPM** installed - NPM is distributed with [Node.js](https://www.npmjs.com/get-npm)
 ```bash
 # Check Node version
